@@ -3,3 +3,9 @@ This shows how to connect a client programmed in Python to a server programmed i
 in socket programming
 ------------------------------------------------------------------------------------
 Basic implementation of connecting a Python client to a C server
+
+To run:
+  1) Open two terminal windows and navigate to directory path which each file is stored on both terminals
+  2) Run gcc -o test_server test_server.c, hit ENTER, then type ./test_server.c
+  3) Run client in seperate terminal window by typing python3 client.py
+  4) If successful, you should see messages apear on both terminals confirmung connections between client and server!
