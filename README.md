@@ -2,7 +2,8 @@
 This shows how to connect a client programmed in Python to a server programmed in C
 in socket programming
 ------------------------------------------------------------------------------------
-Basic implementation of connecting a Python client to a C server
+Basic implementation of connecting a Python client to a C server and 
+sending data from BOTH
 
 To run:
   1) Open two terminal windows and navigate to directory path which each file is stored on both terminals
