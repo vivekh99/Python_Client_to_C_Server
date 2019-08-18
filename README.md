@@ -1,4 +1,4 @@
-# python_client_to_c_server
+# Python_GUI_Client_to_C_Server
 This shows how to connect a client programmed in Python to a server programmed in C
 in socket programming
 ------------------------------------------------------------------------------------
