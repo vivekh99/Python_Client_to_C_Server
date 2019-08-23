@@ -20,5 +20,5 @@ To run the Python GUI (made in PyQT5) with C server:
   4) Run gcc -o test_server test_server.c, hit ENTER, then type ./test_server.c
   5) Run the GUI file from your IDE
   6) A window should open where you can enter text and hit send. Enter text and press send
-  7) In the terminal running the server, the text yhat you sent should show up in the terminal
+  7) In the terminal running the server, the text that you sent should show up in the terminal
   (unfortunately, some error occurs when trying to run the .py file in the terminal (not sure why), therefore I run it in the IDE)
